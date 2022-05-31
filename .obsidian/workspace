@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "25060b8a69fe9b31",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0798b3ad5a7d8f7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Anotações Django/Views.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "991d6065a4f8d046",
+    "type": "split",
+    "children": [
+      {
+        "id": "389a0f1343a2f0ab",
+        "type": "tabs",
+        "dimension": 34.418145956607496,
+        "children": [
+          {
+            "id": "0f88f0f0f7c8b50b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8820c0c1c7a82295",
+        "type": "tabs",
+        "dimension": 65.58185404339251,
+        "children": [
+          {
+            "id": "9e9f9f3214c4d966",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "742dbc4e896bfe3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 181
+  },
+  "right": {
+    "id": "dbdf562dedfcb014",
+    "type": "split",
+    "children": [
+      {
+        "id": "26931584c4760545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "574ad7452abcbb76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anotações Django/Views.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d55cfbdc5ee22dc6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f0798b3ad5a7d8f7",
+  "lastOpenFiles": [
+    "Anotações Django/Views.md",
+    "`POST`.md",
+    "Python/Funções.md",
+    "Anotações Django/Views/CreateView.md",
+    "Anotações Django/Views/DeleteView.md",
+    "Anotações Django/Views/UpdateView.md",
+    "Anotações Django/Views/DetailView.md",
+    "Python/Python.md",
+    "Anotações Django/Django.md",
+    "Banco de Dados.md"
+  ]
+}
